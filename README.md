@@ -1,5 +1,6 @@
 # 5.VERIFICATION-OF-NORTON-S-THEOREM
-
+## NAME: MEGALA VALLI N
+## REF NO: 25017629
 **AIM:**
 
 To verify Norton’s theorem practically and theoretically for the given DC circuit.
@@ -28,7 +29,7 @@ Norton’s Resistance, RN:It is the look-back resistance across the load termina
 
 
 **To measure RTh or RN**
-
+<img width="766" height="1317" alt="image" src="https://github.com/user-attachments/assets/be38cc55-79ec-4192-9600-4a950bc25260" />
 
 
 **To measure IN or Isc**
@@ -38,6 +39,16 @@ Norton’s Resistance, RN:It is the look-back resistance across the load termina
 
 
 **Norton’s equivalent circuit**
+
+<img width="787" height="1351" alt="image" src="https://github.com/user-attachments/assets/d2b34ed3-d69c-4f98-8222-ccd23223d481" />
+
+<img width="740" height="1316" alt="image" src="https://github.com/user-attachments/assets/45c2eea6-537a-4cc3-be5a-3b817af88734" />
+
+<img width="766" height="1333" alt="image" src="https://github.com/user-attachments/assets/3a9d013a-3006-4e25-a011-1af99db7a7e6" />
+
+<img width="794" height="1389" alt="image" src="https://github.com/user-attachments/assets/ff0672e5-b712-4da9-88ee-6fe5de6587f7" />
+
+<img width="783" height="1331" alt="image" src="https://github.com/user-attachments/assets/bb960667-6ed1-4f0b-a3c4-84dda3b73d8e" />
 
 
 **PROCEDURE:**
